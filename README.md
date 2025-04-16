@@ -1,1 +1,1 @@
-# ThursDnD
+# Thursday Night D&D
