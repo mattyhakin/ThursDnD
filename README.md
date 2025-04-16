@@ -34,4 +34,4 @@ Guy looked over at the fight going on at the bar, more and more of the patrons w
 
 ![Test](docs/assets/Me.jpg)
 
-img src="https://github.com/mattyhakin/ThursDnD/blob/f0802c340354b93da6d0e051cde802fc487476c4/docs/assets/Me.jpg" width="360" height="800">
+<img src="https://github.com/mattyhakin/ThursDnD/blob/f0802c340354b93da6d0e051cde802fc487476c4/docs/assets/Me.jpg" width="360" height="800"/>
