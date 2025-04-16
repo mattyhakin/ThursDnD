@@ -31,3 +31,5 @@ Kalidor tries to bring Barzul attention back to their conversation but then like
 There was banging at the door, but Bardlebie didn’t care, he was wondering if he had ordered food and drink, and it was one of the bar staff bringing it up. He could hear a voice from behind the door, but he had more pressing matters to attend to, that was until the door was kicked in. A man stood there shouting at him and his new friend, she screamed in recognition. A back and forth between them begin and that’s when Bardlebie noticed the knife in the man’s hand. His instincts kicked in, he slided from the bed to the floor, grabbing his cloths, coin, bag and lute. He sprinted to the door side stepping the man while he sure he heard his company mentioned being in love.
 
 Guy looked over at the fight going on at the bar, more and more of the patrons where joining. He was getting ready to sit down when he heard the crashing of a door and a heated argument taking place then he saw a very naked shape dart from the door and then leap from the balcony into the crowd below, at this moment Guy sighed, finished his drink and waded into the fray.
+
+![Test](docs/assets/Me.jpg)
