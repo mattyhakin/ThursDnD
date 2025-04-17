@@ -33,5 +33,5 @@ There was banging at the door, but Bardlebie didn’t care, he was wondering if 
 Guy looked over at the fight going on at the bar, more and more of the patrons where joining. He was getting ready to sit down when he heard the crashing of a door and a heated argument taking place then he saw a very naked shape dart from the door and then leap from the balcony into the crowd below, at this moment Guy sighed, finished his drink and waded into the fray.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/f0802c340354b93da6d0e051cde802fc487476c4/docs/assets/Me.jpg" width="240" height="320">
+<img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/refs/heads/main/docs/assets/f8bb2401ee2bb7d7fa6f61c77b2bd1361deef0c3f25a26039e07575008764243.png" width="240" height="320">
 </p>
