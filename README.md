@@ -28,10 +28,14 @@ The Iroquill stands and begins to walk towards the stairs up to the first-floor 
 It all happens in a flash, the hand on her shoulder, the cry of the man as she broke his wrist. The threats of the mans friends and other patrons at the bar, more hands and fists in coming in her direction. Ash’s world turns into a blur. 
 Kalidor tries to bring Barzul attention back to their conversation but then like a beacon Kalidor found what he was looking for, he grabbed his friend’s wrist and pulled them into the fray at the bar.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/refs/heads/main/docs/assets/f8bb2401ee2bb7d7fa6f61c77b2bd1361deef0c3f25a26039e07575008764243.png" width="240" height="320">
+</p>
+
+
 There was banging at the door, but Bardlebie didn’t care, he was wondering if he had ordered food and drink, and it was one of the bar staff bringing it up. He could hear a voice from behind the door, but he had more pressing matters to attend to, that was until the door was kicked in. A man stood there shouting at him and his new friend, she screamed in recognition. A back and forth between them begin and that’s when Bardlebie noticed the knife in the man’s hand. His instincts kicked in, he slided from the bed to the floor, grabbing his cloths, coin, bag and lute. He sprinted to the door side stepping the man while he sure he heard his company mentioned being in love.
 
 Guy looked over at the fight going on at the bar, more and more of the patrons where joining. He was getting ready to sit down when he heard the crashing of a door and a heated argument taking place then he saw a very naked shape dart from the door and then leap from the balcony into the crowd below, at this moment Guy sighed, finished his drink and waded into the fray.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/refs/heads/main/docs/assets/f8bb2401ee2bb7d7fa6f61c77b2bd1361deef0c3f25a26039e07575008764243.png" width="240" height="320">
-</p>
+
+
