@@ -1,3 +1,5 @@
+<h1 style="text-align: center;"><span style="text-decoration: underline;"><strong>Thursday Night D&amp;D</strong></span></h1>
+
 Chapter 0
 
 12 months have passed since the slaying of the young white dragon, Cryovain a peace has fallen over Phadalin and the Sword Coast. The adventurers who slayed the dragon returned to the town they had called home to help the rebuilding process.
