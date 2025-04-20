@@ -48,6 +48,8 @@ The Iroquill stands and begins to walk towards the stairs up to the first-floor 
 It all happens in a flash, the hand on her shoulder, the cry of the man as she broke his wrist. The threats of the mans friends and other patrons at the bar, more hands and fists in coming in her direction. Ash’s world turns into a blur. 
 Kalidor tries to bring Barzul attention back to their conversation but then like a beacon Kalidor found what he was looking for, he grabbed his friend’s wrist and pulled them into the fray at the bar.
 
+Guy looked over at the fight going on at the bar, more and more of the patrons where joining. He was getting ready to sit down when he heard the crashing of a door and a heated argument taking place then he saw a very naked shape dart from the door and then leap from the balcony into the crowd below, at this moment Guy sighed, finished his drink and waded into the fray.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/refs/heads/main/docs/assets/f8bb2401ee2bb7d7fa6f61c77b2bd1361deef0c3f25a26039e07575008764243.png" width="240" height="320">
 </p>
@@ -145,6 +147,10 @@ Then, in a flash of water and fury, Kalidor was struck down—bloodied and gaspi
 
 Ash, in a final act of brute courage, punched the elemental to death, fist through brine and bone.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/refs/heads/main/docs/assets/1d4df1fd7079fa7a82a0f21aad0377cbb5bf2827add19a047b1f01f8442b9e67.png" width="240" height="320">
+</p>
+
 As they paused to catch their breath, a sound came from within a boarded-up house.
 
 Inside, they found Smithwell and Burnice, shaking but safe. Ash won their trust the best way he knew how: with chocolate biscuits.
@@ -164,7 +170,10 @@ When the party returned to Leilon, the Growler awaited.
 “Take this. You’ve earned it.”
 
 And with that, she handed them the deed to a home of their own—a place within the walls of Leilon, forged not from gold, but from heroism, grit, and no small amount of fireball.
-Guy looked over at the fight going on at the bar, more and more of the patrons where joining. He was getting ready to sit down when he heard the crashing of a door and a heated argument taking place then he saw a very naked shape dart from the door and then leap from the balcony into the crowd below, at this moment Guy sighed, finished his drink and waded into the fray.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/refs/heads/main/docs/assets/ba33e40a1c1e9e6efa5bbb3dc5e2e01fec3a732465c60494e4100464b6e5c73d.png" width="240" height="320">
+</p>
 
 <p style="text-align: center;"><strong><em>---</em></strong></p>
 
