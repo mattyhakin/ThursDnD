@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/refs/heads/main/docs/assets/1B051E4A-A9A9-40F9-8CA4-0E9CE7C7A107.png" width="300" height="300">
+</p>
+
 <h1 style="text-align: center;"><span style="text-decoration: underline;"><strong>Thursday Night D&amp;D</strong></span></h1>
 <h2 style="text-align: center;"><em>Echoes of Leilon</em></h2>
 
