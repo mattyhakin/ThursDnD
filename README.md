@@ -143,6 +143,10 @@ The battle raged through the alleyways and over rooftops:
 
 • Barzul, with death’s cold fingers, raised the fallen to fight on his side.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/refs/heads/main/docs/assets/bbecfd69febc04b45616f39c76b6ed12837c4183f24caf796d21902fae6e704e.png" width="240" height="320">
+</p>
+
 Then, in a flash of water and fury, Kalidor was struck down—bloodied and gasping. But Barzul knelt beside him, and the light of necrotic magic stitched life back into his veins.
 
 Ash, in a final act of brute courage, punched the elemental to death, fist through brine and bone.
