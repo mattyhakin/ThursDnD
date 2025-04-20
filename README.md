@@ -38,6 +38,133 @@ Kalidor tries to bring Barzul attention back to their conversation but then like
 
 There was banging at the door, but Bardlebie didn’t care, he was wondering if he had ordered food and drink, and it was one of the bar staff bringing it up. He could hear a voice from behind the door, but he had more pressing matters to attend to, that was until the door was kicked in. A man stood there shouting at him and his new friend, she screamed in recognition. A back and forth between them begin and that’s when Bardlebie noticed the knife in the man’s hand. His instincts kicked in, he slided from the bed to the floor, grabbing his cloths, coin, bag and lute. He sprinted to the door side stepping the man while he sure he heard his company mentioned being in love.
 
+Chapter I: The Siege at Wayside
+
+
+
+The tale picks up not with triumph, but with flight. The embers of a duel still smoldered in Stonehill Inn as the adventurers made their escape beneath a dusk-dark sky. With Guy at their side and tension hot on their heels, they raced west along the road—toward the High Reed, toward uncertainty. They were not alone for long.
+
+
+
+From behind, half-dressed and grinning like a jester caught in a brothel, Bardlebie joined the retreat—trailing behind him a cacophony of curses from Cedric “Ironquill” Broadshield and his guards. They ran until the stars blinked to life above them, until their breath came sharp and clouded.
+
+
+
+And there—at the crossroads of the High Road and Triboar Trail—they found sanctuary under siege.
+
+
+
+The Wayside Inn, a once-cheerful roadside retreat, now stood barricaded and battered. Its lanterns flickered behind boarded windows. Shapes moved in the gloom—undead, clawing and groaning, pawing at the inn’s defenses with relentless hunger.
+
+
+
+With a wordless nod, the adventurers drew steel and leapt into the fray.
+
+
+
+None fought harder than Kalidor, whose wrath burned like a comet. Blades flashed, arrows sang, and spells crackled as the party cut through the shambling dead. But the mire held more in store.
+
+
+
+From the trees came a new terror—wraiths, spectral and wrathful, drawn by the slaughter. The party hesitated, but fate chose for them: a single crossbow bolt flew from the inn’s upper window and struck one of the wraiths squarely in the neck. With that, the fight was joined.
+
+
+
+The spectral foes fell quickly, undone by song, fire, and holy might.
+
+
+
+At last, the doors of the Wayside Inn opened, and grateful faces peered out. The adventurers were welcomed not only with cheers—but with drink.
+
+
+
+Inside, the party met Martisha, the innkeeper. On the surface, she seemed warm—almost too warm. Her books were suspiciously tidy, her ledger oddly coded. Something in her behavior whispered secrets. While she evaded questions about the undead, her companion, Turbin the Bard, proved more forthcoming.
+
+
+
+“There’s a dark wizard in these parts,” he whispered between sips of spiced wine. “Raising the dead. Testing the edges of something… ancient.”
+
+
+
+Not all at the inn seemed glad to be rescued. But for now, the drinks were free, the fire was warm, and the beds—such as they were—offered some rest. Some took rooms. Others—more wild-hearted or paranoid—chose the stables.
+
+
+Yet none truly slept easily, for the shadow behind the siege had yet to show its true face.
+
+
+<h4><em>Chapter II: The Storm and the Sacrifice</em></h4>
+
+Morning came with thunder on the horizon.
+
+The party left the inn and resumed their road to Leilon, where the scent of salt and smoke mingled on the breeze. But before they could reach the safety of the rebuilt walls, they came upon a makeshift town gathering—a sea of tents and carts just shy of town.
+
+The citizens had evacuated, driven out by warning cries from the guards. And there, in the center of it all, stood the iron voice of order: Grizzelda Copperwrought, known to all (though never to her face) as “The Growler.”
+
+Beside her stood Sergeant Hazz Yorrum, looking as tired and crooked as an old fence post. Two other notable figures stood nearby:
+
+• Merrygold Brightshine, priest of Lathander, sun-bright and frantic.
+
+• Valdi Estapaar, half-elven fisher, stoic and weatherworn.
+
+Together, they made up Leilon’s fledgling Town Council.
+
+The Growler opened the meeting with her usual fire, chastising panicked workers and stonecutters. But murmurs rose from the crowd:
+
+• A stonemason spoke of strange lights on the water.
+
+• Another recalled shouting from fishing boats.
+
+• Then came a cry from the back: “The children! Smithwell and Burnice! They’re gone!”
+
+The crowd turned chaotic. Yorrum barked orders. Merrygold begged for action. The Growler demanded calm.
+
+It was then that Talos struck.
+
+Lightning cracked, and cultists emerged from the brush. The crowd screamed and scattered. Acolytes of Lathander ushered terrified children to safety while adults bolted for the woods. Yorrum fled faster than most, tripping over his own shield.
+
+But the adventurers stood tall—and struck back. Lightning and blade met dark prayers as the cultists fell beneath a storm not of Talos, but of resolve.
+
+In the stillness that followed, they pressed deeper into the town.
+
+There, before the fishery, stood a horned woman in robes soaked with seawater. Her name was Nixoxious, a kraken priest, flanked by berserkers. They chanted in a language not meant for land-dwellers, calling to dark things beneath the waves.
+
+Kalidor and Barzul hesitated, momentarily overwhelmed by the sight of a summoned Water Elemental, but soon rallied to join their friends.
+
+The battle raged through the alleyways and over rooftops:
+
+• Ash vaulted a wall and tackled a berserker mid-sprint.
+
+• The kraken priest unleashed a thunderous blast, nearly killing Barzul.
+
+• Kalidor retaliated with a crackling cone of lightning, scorching foes and searing the priest.
+
+• Water weirds emerged from the marshy ground.
+
+• Barzul, with death’s cold fingers, raised the fallen to fight on his side.
+
+Then, in a flash of water and fury, Kalidor was struck down—bloodied and gasping. But Barzul knelt beside him, and the light of necrotic magic stitched life back into his veins.
+
+Ash, in a final act of brute courage, punched the elemental to death, fist through brine and bone.
+
+As they paused to catch their breath, a sound came from within a boarded-up house.
+
+Inside, they found Smithwell and Burnice, shaking but safe. Ash won their trust the best way he knew how: with chocolate biscuits.
+
+Through teary eyes, the children spoke of their fisherfolk parents, who had been taken across the marsh—guarded, they said, by armored men with cruel voices. A ritual, they whispered. A sacrifice to Talos.
+
+The party waited for the storm to pass. Then they set out.
+
+Through blackened waters and twisted reeds, they fought again—more water weirds, more cultists. At last, they reached the island where the fishers and soldiers were bound.
+
+And they freed them all.
+
+When the party returned to Leilon, the Growler awaited.
+
+“You’ve done more than most armies would,” she said.
+
+“Take this. You’ve earned it.”
+
+And with that, she handed them the deed to a home of their own—a place within the walls of Leilon, forged not from gold, but from heroism, grit, and no small amount of fireball.
 Guy looked over at the fight going on at the bar, more and more of the patrons where joining. He was getting ready to sit down when he heard the crashing of a door and a heated argument taking place then he saw a very naked shape dart from the door and then leap from the balcony into the crowd below, at this moment Guy sighed, finished his drink and waded into the fray.
 
 
