@@ -3,6 +3,8 @@
 
 <h4 class="p1" style="text-align: center;"><strong><em>&ldquo;In the shadow of thunder and time, the stones of Leilon remember more than we do&mdash;echoes of valor, betrayal, and the fragile hope that even ruins may rise again.&rdquo;</em></strong></h4>
 
+<p style="text-align: center;"><strong><em>---</em></strong></p>
+
 <p class="p1" style="text-align: center;"><em>This chronicle, known now as The Echoes of Leilon, has been pieced together by Scholar Thaelen Morovyn of Candlekeep, compiled from recovered letters, scorched documents, and the surviving tales of those who walked beside the storm.</em></p>
 
 Chapter 0
@@ -44,15 +46,13 @@ There was banging at the door, but Bardlebie didn’t care, he was wondering if 
 
 Chapter I: The Siege at Wayside
 
-
-
 The tale picks up not with triumph, but with flight. The embers of a duel still smoldered in Stonehill Inn as the adventurers made their escape beneath a dusk-dark sky. With Guy at their side and tension hot on their heels, they raced west along the road—toward the High Reed, toward uncertainty. They were not alone for long.
-
-
 
 From behind, half-dressed and grinning like a jester caught in a brothel, Bardlebie joined the retreat—trailing behind him a cacophony of curses from Cedric “Ironquill” Broadshield and his guards. They ran until the stars blinked to life above them, until their breath came sharp and clouded.
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/mattyhakin/ThursDnD/refs/heads/main/docs/assets/ACB3C0FD-ECC0-4576-9688-1785EE8533A8.png" width="240" height="320">
+</p>
 
 And there—at the crossroads of the High Road and Triboar Trail—they found sanctuary under siege.
 
