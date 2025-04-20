@@ -177,3 +177,114 @@ And with that, she handed them the deed to a home of their own—a place within 
 
 <p style="text-align: center;"><strong><em>---</em></strong></p>
 
+
+Chapter III: Echoes of the Beacon
+The mist had not yet cleared from the cobbled streets of Leilon when the adventurers took to wandering the town they now called home. New beginnings often wear the cloak of mystery, and Leilon—though growing—was a town layered in whispers.
+
+In the heart of it all, perched high on a rocky crag overrun with thorn and bramble, loomed the House of Thalivar. The locals spoke of it only in hushed tones, their eyes darting toward the tower with superstition thick in their voices. Long abandoned and now under reconstruction, the tower remained a skeletal silhouette above the town—its secrets locked within stone and shadow.
+
+A beaten trail, carved more by the boots of soldiers than by willful visitors, wound its way toward the tower’s base. As the party climbed the path, the sound of raised voices echoed through the fog. Four soldiers stood in heated discussion: Erlum and Koz, both broad-shouldered men of Neverwinter; Gori, a wide-eyed, timid dwarf clutching his hammer like a warding charm; and their superior, Sergeant Yorrum, his expression taut with unease.
+
+Each bore the sigil of Neverwinter’s soldiery, though their proud tabards were stained with mud and weariness. When questioned, the soldiers pleaded with the adventurers not to enter the tower.
+
+“We were working the reconstruction,” said Yorrum, voice rough like dry leather, “until… last night.”
+
+He spoke of a ghostly apparition—an old man with wild hair and eyes that burned like embers. Before the spirit’s sudden appearance on the tower’s third floor, there had been strange happenings: tools vanishing without cause, unnatural chills in the halls, whispers that did not belong to the living.
+
+“We fled,” Yorrum admitted. “But the wizard—Gallio Elibro—he stayed. Gods know why. He’s… not himself. Been muttering in his sleep. Roaming at night in his nightgown, eyes like he ain’t seen the sun in days.”
+
+Determined, the party pressed on. As they neared the tower’s blackened doors, a flicker of motion caught their eyes. At the highest window stood a ghostly figure, her chainmail gleaming faintly in the morning mist. A dark-skinned Turmish woman, she watched silently—then vanished the moment she was seen.
+
+Inside, the air grew colder. Dust hung thick like forgotten time. Bookshelves loomed tall, scrolls long faded, and the stones themselves seemed to hum with power. Among the cluttered chambers, the party found Gallio Elibro, hunched over a table, surrounded by tomes.
+
+The Rashemi mage was disheveled—his curly black hair wild, his ink-stained robe clinging to his thin frame. His fingers, blotched with violet ink, trembled as they turned pages. Gallio, it seemed, had no interest in visitors.
+
+“The tower,” he muttered, “sings to me at night… the texts… they’re louder than the dreams…”
+
+When pressed, Gallio grew irritable, distracted. It soon became clear he was losing his grasp—his mind frayed by restless sleep. Unknown to him, the spirit of Thalivar, the tower’s former master, had begun possessing the mage each night.
+
+The party began their own investigation of the tower. Dust and silence offered few answers—until they stumbled upon a long-sealed room. Inside stood a slumbering stone golem, bound to the tower’s defense. When disturbed, it roused with thunderous fury. Steel clashed against stone, magic flared in the dim light, and the party stood firm, felling the ancient guardian after a brutal clash.
+
+Their reward was knowledge: among the rubble lay a journal bound in midnight-blue leather.
+
+It was Thalivar’s journal—the very mage who once ruled this tower.
+
+Within its pages, they discovered the arcane history of the Planar Beacon, a wondrous device capable of drawing creatures from across the planes and imprisoning them within the tower’s halls for study. Thalivar’s ambition had grown with his research, and soon his sights fell upon a relic of terrifying power: the Ruinstone.
+
+Whether he ever acquired it remains unknown—the journal’s entries abruptly ceased for over a century.
+
+Until now.
+
+Ink still wet, the most recent entries spoke of dreams. Of a ruined tower in a dead, colorless world. In his sleep, Thalivar wandered its shattered halls, always returning to the rubble of the chamber where his beacon once stood. A dread overcame him each time he drew near, and he longed for his faerie companion, Soapwort, who never appeared.
+
+“I pray these dreams end soon,” he wrote. “I must resume my studies… I must…”
+
+The party, now certain that Thalivar’s spirit was the source of the haunting—and that Gallio’s very soul was under nightly siege—searched the arcane library for a means to set him free.
+
+Barzul, tireless and grim, uncovered a spell buried deep in a forgotten grimoire. A rite of release, woven in celestial runes and bound by will.
+
+The party ascended the tower’s spiral steps, now silent but for their breath and the echoes of the past. At the topmost chamber, where the veil between worlds ran thin, they enacted the spell. Magic shimmered through the air as the rite reached its climax—and with a shudder, the spirit of Thalivar appeared.
+
+Wreathed in pale light, sorrow etched into his translucent face, the wizard gave a slight nod before fading like the final notes of a long-forgotten song.
+
+As peace settled over the tower, the adventurers descended—only to find one last figure awaiting them below.
+
+The ghostly Turmish woman stood once more, blade at her side. She raised her sword in a silent salute, her eyes filled with calm. Then, without a word, she turned and walked away—into the rising mist, and beyond.
+
+Chapter IV: Of Stone and Scales, and Rot Beneath the Mire
+
+The sun had only just begun to spill gold over the rooftops of Leilon when the adventuring party returned once more to The Dusty Gnome Inn—that ever-dependable hearth of gossip, breakfast, and strong brew. The scent of roasted sausage and fire-baked bread filled the air as sleepy-eyed patrons muttered into tankards and tankards whispered back.
+
+But this morning, it was not ale or eggs that stirred the party’s attention.
+
+Through the common room came Breltora Red-Eye, a broad-shouldered half-orc stonemason with dust still clinging to her boots and a deep furrow across her brow. She approached with hesitation, her voice low and tight with worry.
+
+“I’m looking for help,” she said. “My friend—Private Vester Jessup—he’s gone missing.”
+
+She explained that Vester, a soldier under Sergeant Yorrum, had been sent with a small patrol along the High Road’s edge, where it skirted the foul expanse of the Mere of Dead Men. Their task was routine: to ensure no beasts or worse had taken lair too near to the road. But Vester had not returned, and Breltora feared the worst.
+
+With kind words and reassuring nods, the party pledged to uncover the truth—and perhaps, return her friend alive.
+
+They set out south along the High Road, where stone turned to mud and the wind carried the fetid breath of the swamp. The Mere of Dead Men, ancient and cursed, sprawled like a festering wound on the land. Trees twisted skyward like grasping fingers, and unseen things stirred beneath still water.
+
+As they pressed into the mire, the party stumbled upon an unsettling sight: a yuan-ti abomination, serpent-bodied and monstrous, hunched over the broken carcass of an elk, devouring it with gleaming fangs and forked tongue.
+
+This creature was no simple hunter. It bore the mark of Najara, the serpent kingdom from the far south, and it was not alone in its interest in the swamp. The abomination was a scout, sent ahead of an expedition meant to assess the Mere as a foothold—first for colonization, then for war.
+
+Sensing its secret uncovered, the creature attacked with lethal purpose. The battle was swift and brutal, but the adventurers prevailed, leaving the serpent’s corpse to sink into the bog.
+
+Not long after, the party came upon a clearing in the marsh—its perimeter marked by sharpened stakes and half-sunken bones. Within stood a lizardfolk encampment, teeming with life and wary eyes. At its heart towered a commanding figure: Subchief Hissain, scarred and statuesque, speaking in low hisses to his kin.
+
+At his side loomed a hulking brute of scales and muscle—Slosh, a lizardfolk render, as feared in battle as he was fond of snacks. Around them moved warriors, dutiful and alert, while caged nearby were eight human prisoners: four Neverwinter soldiers, including the missing Private Vester, and four battered merchants.
+
+Hissain barked orders for food to be brought and prisoners tended. He sent Slosh into the mire to scout for threats—and for something edible.
+
+From the brush, the adventurers watched. Then, like shadows beneath moonlight, they crept forward. Steel was drawn only once, and with quiet precision they freed the prisoners, guiding them from captivity. The merchants, thankful beyond words, pressed five hundred gold pieces into the party’s hands before vanishing into the wilds to find their caravans. The soldiers, loyal and relieved, pledged to remain with their rescuers.
+
+But war was not their aim.
+
+With calm words and silvered tongue, Bardlebie stepped forth to parley. He spoke not of vengeance, but of understanding. The lizardfolk had taken the humans not from malice, but from fear. The merchants had attacked them first, mistaking movement for menace.
+
+In a gesture of peace, Bardlebie offered to return the rescued soldiers. In return, Hissain made a request:
+
+“Three beasts… rot-slick and ruinous… stalk us from the mist. Trolls. Kill them—and we shall call you ally.”
+
+The party accepted, and so the alliance was forged. Together with the remaining soldiers, Gary the Giant Snail (an ever-dependable companion with a glistening trail and stoic gaze), and Slosh—now delighted to bash trolls in place of scouting—the group marched into the fetid heart of the swamp.
+
+The rot trolls were creatures of plague and pestilence, their wounds weeping, their breath vile. They lurked in the stagnant pools and hunted in silence. But against the party, they found no easy meal.
+
+Steel clashed with claw, flame met fetid flesh, and spells of searing power lit the gloom like lightning. Slosh roared as he tore through limbs, while Gary rammed forward like a wet battering ram. Barzul’s magic seared through regenerating flesh, Ash’s blades cut deep, and Kalidor called upon the storm. When the final troll fell, the swamp grew quiet.
+
+And for the first time in many nights, the lizardfolk camp slept without fear.
+
+
+
+Hissain met them at the edge of the camp. His expression was unreadable, but he bowed—a rare gesture among his kind.
+
+“You are not like the others. You listen. You fight well. You are… welcome.”
+
+And with that, the bond was sealed—between adventurer and scaled kin, between sword and word. The Mere of Dead Men still whispered with danger, but for now, the path through it had a light—and its name was the party.
+
+
+ 
+
