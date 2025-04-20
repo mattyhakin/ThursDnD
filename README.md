@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"><span style="text-decoration: underline;"><strong>Thursday Night D&amp;D</strong></span></h1>
 <h2 style="text-align: center;"><em>Echoes of Leilon</em></h2>
 
-<h4 class="p1" style="text-align: center;"><em>&ldquo;In the shadow of thunder and time, the stones of Leilon remember more than we do&mdash;echoes of valor, betrayal, and the fragile hope that even ruins may rise again.&rdquo;</em></h4>
+<h4 class="p1" style="text-align: center;"><strong><em>&ldquo;In the shadow of thunder and time, the stones of Leilon remember more than we do&mdash;echoes of valor, betrayal, and the fragile hope that even ruins may rise again.&rdquo;</em></strong></h4>
 
 <p class="p1" style="text-align: center;"><em>This chronicle, known now as The Echoes of Leilon, has been pieced together by Scholar Thaelen Morovyn of Candlekeep, compiled from recovered letters, scorched documents, and the surviving tales of those who walked beside the storm.</em></p>
 
