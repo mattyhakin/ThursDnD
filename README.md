@@ -13,7 +13,7 @@
 
 <p style="text-align: center;"><strong><em>---</em></strong></p>
 
-Chapter 0
+<h4><em>Chapter 0</em></h4>
 
 12 months have passed since the slaying of the young white dragon, Cryovain a peace has fallen over Phadalin and the Sword Coast. The adventurers who slayed the dragon returned to the town they had called home to help the rebuilding process.
  
@@ -181,8 +181,8 @@ And with that, she handed them the deed to a home of their own—a place within 
 
 <p style="text-align: center;"><strong><em>---</em></strong></p>
 
+<h4><em>Chapter III: Echoes of the Beacon</em></h4>
 
-Chapter III: Echoes of the Beacon
 The mist had not yet cleared from the cobbled streets of Leilon when the adventurers took to wandering the town they now called home. New beginnings often wear the cloak of mystery, and Leilon—though growing—was a town layered in whispers.
 
 In the heart of it all, perched high on a rocky crag overrun with thorn and bramble, loomed the House of Thalivar. The locals spoke of it only in hushed tones, their eyes darting toward the tower with superstition thick in their voices. Long abandoned and now under reconstruction, the tower remained a skeletal silhouette above the town—its secrets locked within stone and shadow.
@@ -235,7 +235,7 @@ As peace settled over the tower, the adventurers descended—only to find one la
 
 The ghostly Turmish woman stood once more, blade at her side. She raised her sword in a silent salute, her eyes filled with calm. Then, without a word, she turned and walked away—into the rising mist, and beyond.
 
-Chapter IV: Of Stone and Scales, and Rot Beneath the Mire
+<h4><em>Chapter IV: Of Stone and Scales, and Rot Beneath the Mire</em></h4>
 
 The sun had only just begun to spill gold over the rooftops of Leilon when the adventuring party returned once more to The Dusty Gnome Inn—that ever-dependable hearth of gossip, breakfast, and strong brew. The scent of roasted sausage and fire-baked bread filled the air as sleepy-eyed patrons muttered into tankards and tankards whispered back.
 
@@ -280,8 +280,6 @@ The rot trolls were creatures of plague and pestilence, their wounds weeping, th
 Steel clashed with claw, flame met fetid flesh, and spells of searing power lit the gloom like lightning. Slosh roared as he tore through limbs, while Gary rammed forward like a wet battering ram. Barzul’s magic seared through regenerating flesh, Ash’s blades cut deep, and Kalidor called upon the storm. When the final troll fell, the swamp grew quiet.
 
 And for the first time in many nights, the lizardfolk camp slept without fear.
-
-
 
 Hissain met them at the edge of the camp. His expression was unreadable, but he bowed—a rare gesture among his kind.
 
