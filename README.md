@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/mattyhakin/ThursDnD/blob/main/assets/dnd-header.png?raw=true" alt="Thursday Nigh D&Dr"/>
+
 # 📜 Echoes of Leilon
 
 _“In the shadow of thunder and time, the stones of Leilon remember more than we do—echoes of valor, betrayal, and the fragile hope that even ruins may rise again.”_
