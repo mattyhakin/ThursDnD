@@ -1,0 +1,11 @@
+<details>
+  <summary>Chapter V: [Insert Your Chapter Title Here]</summary>
+  <p>[Insert your chapter text here...]</p>
+  <p>You can include <strong>formatting</strong>, <em>quotes</em>, and images too:</p>
+
+  <p align="center">
+    <img src="assets/your-image.png" width="240" height="320">
+  </p>
+
+  <p>[Continue your lore here...]</p>
+</details>
